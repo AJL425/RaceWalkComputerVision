@@ -1,5 +1,0 @@
-boto3
-mediapipe
-opencv-python-headless
-xgboost
-numpy
